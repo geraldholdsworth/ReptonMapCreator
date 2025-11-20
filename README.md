@@ -1,4 +1,4 @@
 # Repton Map Creator
 Public facing repository for Repton Map Creator.<br>
 No publically available source code for this because it contains code that Superior Interactive have asked me not to reveal. So, this repository is purely here as a home to the binaries.<br>
-See also <a src="https://www.reptonresourcepage.co.uk">Repton Resource Page</a>.
+See also <a href="https://www.reptonresourcepage.co.uk">Repton Resource Page</a>.
